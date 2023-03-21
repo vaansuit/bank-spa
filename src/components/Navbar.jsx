@@ -1,7 +1,7 @@
 import React from 'react'
 import { useState } from 'react'
 import { close, logo, menu } from '../assets';
-import { navLinks } from '../constans'
+import { navLinks } from '../constants'
 
 const NavBar = () => {
 
